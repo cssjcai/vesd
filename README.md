@@ -1,2 +1,2 @@
 # vesd
-The code will be released soon.
+The code will be available soon.
